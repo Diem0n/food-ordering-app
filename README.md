@@ -13,6 +13,7 @@ This project aims to implement a cart functionality in a react app using the fol
 Methods 
 - `forwardRef()`
 - `bind()`
+- `createPortal()`
 
 #### Demo 
 
