@@ -16,17 +16,17 @@ Methods
 
 #### Demo 
 
-![HomeScreen](image.png)
+![HomeScreen](./public/image.png)
 <div style="text-align: center;" markdown="1">
 
 *Home Screen*
 
-![Cart Empty](image-1.png)
+![Cart Empty](./public/image-1.png)
 <div style="text-align: center;" markdown="1">
 
 *Cart Empty*
 
-![Alt text](image-2.png)
+![Alt text](./public/image-2.png)
 <div style="text-align: center;" markdown="1">
 
 *Cart Items*
