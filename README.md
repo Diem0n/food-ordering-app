@@ -1,7 +1,6 @@
 ### Purpose 
 This project aims to implement a cart functionality in a react app using the following:
 
-
 #### Hooks
 
 - `useState`
